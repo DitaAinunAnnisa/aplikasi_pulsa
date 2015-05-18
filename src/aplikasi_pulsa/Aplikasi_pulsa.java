@@ -13,4 +13,9 @@ public class Aplikasi_pulsa {
         int no, kode, harga;
         String operator;
     }
+    
+    public void voucher()  {
+        int id, harga_beli, harga_jual, stok;
+        String nama;
+    }
 }
